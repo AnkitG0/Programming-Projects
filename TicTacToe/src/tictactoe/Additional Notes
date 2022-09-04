@@ -1,0 +1,9 @@
+Credits for tutorial: https://www.youtube.com/watch?v=z491Cu8k8F0&t=4166s
+Youtube channel for tutorial: https://www.youtube.com/c/davekirkwood
+Game Logic: 
+1. If the user selects X, he goes first. If the user selects O, the computer goes first.
+2. If the game has not started yet, the grid buttons need to be inactive and start buttons to be active. When the game is ongoing, the Start X and Start O button needs to be inactive
+
+Important to stop the program when the window is closed
+
+Print statements are added to boardClick and startButtonPressed in TicTacToe to debug whether the click and start activity is working correctly
