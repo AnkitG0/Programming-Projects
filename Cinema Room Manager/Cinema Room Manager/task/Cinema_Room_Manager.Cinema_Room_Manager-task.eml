@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../../Cinema Room Manager/task">
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Cinema Room Manager/task/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Cinema Room Manager/task/build"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Cinema Room Manager/task/out"/>
+	</contentEntry>
+</component>
